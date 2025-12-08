@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Goodbye To A World",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-08T05:39:59.700195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodbye To A World",
+      "artist": "PorterRobinsonVEVO",
+      "has_synced": true,
+      "path": "select/01_Goodbye_To_A_World_PorterRobinsonVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Goodbye To a World",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Goodbye_To_a_World_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goodbye to a World",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Goodbye_to_a_World_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Goodbye to a World",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Goodbye_to_a_World_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Goodbye To a World",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/05_Goodbye_To_a_World_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "goodbye to a world",
+      "artist": "porter robinson",
+      "has_synced": true,
+      "path": "select/06_goodbye_to_a_world_porter_robinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goodbye To A World",
+      "artist": "Song • Porter Robinson",
+      "has_synced": true,
+      "path": "select/07_Goodbye_To_A_World_Song_•_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Goodbye To A World",
+      "artist": "Porter Robinson & Madeon",
+      "has_synced": true,
+      "path": "select/08_Goodbye_To_A_World_Porter_Robinson_&_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Goodbye To A World (slowed)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/09_Goodbye_To_A_World_(slowed)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Goodbye To A World (Paused)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/10_Goodbye_To_A_World_(Paused)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodbye to a World",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/11_Goodbye_to_a_World_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goodbye to a World - Live",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/12_Goodbye_to_a_World_-_Live_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Goodbye To A World",
+      "artist": "SharaX",
+      "has_synced": true,
+      "path": "select/13_Goodbye_To_A_World_SharaX.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "goodbye to a world",
+      "artist": "Gustixa",
+      "has_synced": false,
+      "path": "select/14_goodbye_to_a_world_Gustixa.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Goodbye To A World [Mixed]",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/15_Goodbye_To_A_World_[Mixed]_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Goodbye to a world",
+      "artist": "Dendipappey",
+      "has_synced": true,
+      "path": "select/16_Goodbye_to_a_world_Dendipappey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Goodbye To A World (Original Mix)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/17_Goodbye_To_A_World_(Original_Mix)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Goodbye To A World",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Goodbye_To_A_World_Porter_Robinson.txt"
+    }
+  ]
+}
